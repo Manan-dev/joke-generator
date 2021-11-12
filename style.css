@@ -5,7 +5,7 @@
 }
 body {
   background-color: #14174f;
-  display: block;
+  display: flex;
   margin-top: 10%;
 }
 .left-container{
